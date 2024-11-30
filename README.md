@@ -68,6 +68,7 @@ Tools Used
 
 
 Screenshots (are in the repo)
+https://docs.google.com/document/d/1C1DrdgzhlDYLlXr2HqEDcYjXalAfV9n2/edit?usp=sharing&ouid=104683707610166528845&rtpof=true&sd=true
 
 
 
