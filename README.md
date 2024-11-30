@@ -4,14 +4,14 @@ Epic Reads - Book Recommendation System
 
 Overview  
 Epic Reads is a fun and interactive book recommendation system that helps you find your next favorite read. The project is made up of two main parts:  
- 	Machine Learning Notebook**: A Jupyter Notebook where all the magic happens to figure out which books you might like.  
- 	Web App: A simple and easy-to-use Streamlit app where you can pick a book and get recommendations instantly!  
+ 	Machine Learning Notebook: A Jupyter Notebook where all the coding is done to figure out which books you might like.  
+ 	Web App: A simple and easy-to-use Streamlit app where you can pick a book and get recommendations instantly 
 
 It uses cool techniques like collaborative filtering and cosine similarity to give you personalized book suggestions.
 
 
 What is this project  
-This project is all about making book recommendations easy and fun. If you're someone who loves reading but struggles to find the next book to dive into, Epic Reads is here to save the day. Just select a book you like, and it’ll suggest similar ones you might enjoy!
+This project is all about making book recommendations easy and fun. If you're someone who loves reading but struggles to find the next book to dive into, Epic Reads is here to save the day. Just select a book you like, and it’ll suggest similar ones you might enjoy.
 
 
 
@@ -19,7 +19,7 @@ How does it work
 The system uses a smart algorithm to analyze how books are related based on user preferences. It works in three simple steps:  
 1. Processes book data to figure out how books are similar.  
 2. Runs a recommendation model to find the best matches for the book you pick.  
-3. Shows you the recommendations with book covers in the web app!  
+3. Shows you the recommendations with book covers in the web app 
 
 
 
@@ -67,9 +67,7 @@ Tools Used
 
 
 
-Screenshots (Coming Soon  
-
-I’ll add some screenshots here to show how the app looks in action. Stay tuned!  
+Screenshots (are in the repo)
 
 
 
